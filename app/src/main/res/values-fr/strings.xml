@@ -11,4 +11,10 @@
     <string name="prompt_email">Addresse mail</string>
     <string name="prompt_password">Mot de passe</string>
     <string name="action_sign_in_short">Se connecter</string>
+    <string name="d2">geolocalisation du vehicule</string>
+    <string name="d1">securite du vehicule</string>
+    <string name="d3">service hors ligne</string>
+    <string name="d11">vous pouvez utiliser l application pour localise votre vehicule n importe ou!</string>
+    <string name="d22">l application vous permet de securise votre voiture</string>
+    <string name="d33">le service est gratuit ,il n exige aucune connexion internet</string>
 </resources>
